@@ -93,6 +93,15 @@ Competências: ingestão, modelagem, transformação, armazenamento, qualidade, 
 
 Material principal: [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp) — externo.
 
+O curso completo tem nove semanas e sete módulos, mais que as cinco semanas desta fase. Por isso a trilha usa apenas o núcleo necessário para a entrega:
+
+- Semana 21: Módulo 1 — Docker, PostgreSQL e Terraform.
+- Semana 22: Módulo 2 — orquestração de workflows com Kestra.
+- Semana 23: Módulo 3 — data warehouse e BigQuery.
+- Semanas 24–25: Módulo 4 — analytics engineering com dbt e fechamento da entrega.
+
+Ficam fora das 40 semanas, como aprofundamento opcional: Módulo 5 (plataformas de dados), Módulo 6 (batch com Spark), Módulo 7 (streaming) e o projeto final do curso. O projeto final desta trilha é o capstone da Fase 8.
+
 Entrega: pipeline que transforma dados brutos em uma tabela analítica e pode ser executado novamente.
 
 Critério de conclusão: obter o mesmo resultado em uma execução limpa e documentar arquitetura, entradas, saídas e falhas esperadas.
