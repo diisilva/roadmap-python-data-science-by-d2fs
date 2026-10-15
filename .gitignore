@@ -1,0 +1,40 @@
+# Local backups of the source repositories' Git metadata.
+.nested-git-backups/
+
+# Local Git administration directories used by this workspace.
+.git/
+.monorepo-git/
+
+# Upstream repositories kept locally but published only as external links.
+/AI-For-Beginners/
+/ML-For-Beginners/
+/TensorFlow-Examples/
+/ai-agents-for-beginners/
+/bark/
+/claude-cookbooks/
+/data-engineer-handbook/
+/dive-into-llms/
+/generative-ai-for-beginners/
+/google-research/
+/llm-app/
+/openai-cookbook/
+/Python-100-Days/
+/prompt-eng-interactive-tutorial/
+/segment-anything/
+/stable-diffusion/
+/data-engineering-zoomcamp/
+
+# Local development environments and caches.
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+.pytest_cache/
+**/.pytest_cache/
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Local operating-system and editor files.
+.DS_Store
+Thumbs.db
+*.code-workspace
