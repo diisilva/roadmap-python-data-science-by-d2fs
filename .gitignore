@@ -24,6 +24,9 @@
 /stable-diffusion/
 /data-engineering-zoomcamp/
 
+# Standalone roadmap maintained in its own Git repository.
+/Data-Roadmap-D2FS/
+
 # Local development environments and caches.
 .venv/
 **/.venv/

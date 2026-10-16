@@ -4,6 +4,109 @@ Uma trilha prática de 40 semanas para sair dos fundamentos de Python e chegar �
 
 O foco não é concluir o maior número possível de cursos. O foco é produzir evidências de aprendizado: código autoral, testes, análises, pipelines, modelos avaliados e um projeto final de portfólio.
 
+## Comece aqui
+
+Este `README` é o seu cockpit. Não é preciso descobrir sozinho qual pasta abrir:
+
+1. escolha a próxima aula no sumário abaixo;
+2. abra a página da aula e siga os links em **Estude nesta ordem**;
+3. faça a prática e produza a entrega indicada;
+4. marque o checklist da aula e registre a evidência no [painel de progresso](./PROGRESS.md);
+5. use **Próxima aula** para continuar a trilha.
+
+Cada trilha termina em uma entrega utilizável. As aulas 14 e 26 são checkpoints de revisão; as aulas 38 a 40 formam o projeto final.
+
+## Cockpit das 40 aulas
+
+### Trilha 1 — Fundamentos de Python (aulas 01–07)
+
+Você prepara o ambiente e constrói uma aplicação Python organizada, testada e reproduzível.
+
+| Aula | O que você aprende e entrega |
+|---|---|
+| [01 — Ambiente e diagnóstico](./aulas/01-ambiente-e-diagnostico.md) | Terminal, Python, Git e diagnóstico inicial. |
+| [02 — Git, testes e reprodutibilidade](./aulas/02-git-testes-e-reprodutibilidade.md) | Repositório executável com ambiente e testes. |
+| [03 — Tipos e coleções](./aulas/03-tipos-e-colecoes.md) | Modelagem de dados simples em Python. |
+| [04 — Funções e módulos](./aulas/04-funcoes-e-modulos.md) | Código dividido em responsabilidades claras. |
+| [05 — Arquivos, erros e validação](./aulas/05-arquivos-erros-e-validacao.md) | Entrada persistida e falhas tratadas. |
+| [06 — Objetos e APIs](./aulas/06-objetos-e-apis.md) | Integração com API e domínio organizado. |
+| [07 — Projeto Python](./aulas/07-projeto-python.md) | Aplicação de terminal concluída e testada. |
+
+### Trilha 2 — Análise, estatística e SQL (aulas 08–14)
+
+Você transforma dados brutos em uma análise reproduzível, com consultas, gráficos e conclusões defensáveis.
+
+| Aula | O que você aprende e entrega |
+|---|---|
+| [08 — NumPy](./aulas/08-numpy.md) | Arrays, vetorização e cálculo numérico. |
+| [09 — pandas e limpeza](./aulas/09-pandas-e-limpeza.md) | Dataset limpo com decisões registradas. |
+| [10 — Transformação de dados](./aulas/10-transformacao-de-dados.md) | Junções, agregações e séries temporais. |
+| [11 — Visualização](./aulas/11-visualizacao.md) | Gráficos orientados a perguntas. |
+| [12 — Estatística aplicada](./aulas/12-estatistica-aplicada.md) | Incerteza, associação e limites da análise. |
+| [13 — SQL analítico](./aulas/13-sql-analitico.md) | Consultas com filtros, joins e agregações. |
+| [14 — Revisão dos fundamentos](./aulas/14-revisao-dos-fundamentos.md) | Case analítico reproduzido e melhorado. |
+
+### Trilha 3 — Machine learning clássico (aulas 15–20)
+
+Você formula um problema preditivo, compara modelos e explica métricas e erros.
+
+| Aula | O que você aprende e entrega |
+|---|---|
+| [15 — Problema, dados e baseline](./aulas/15-problema-dados-e-baseline.md) | Formulação do problema sem vazamento. |
+| [16 — Regressão](./aulas/16-regressao.md) | Modelo de regressão comparado ao baseline. |
+| [17 — Classificação](./aulas/17-classificacao.md) | Classificador com limiar e métrica justificados. |
+| [18 — Validação e métricas](./aulas/18-validacao-e-metricas.md) | Protocolo de avaliação confiável. |
+| [19 — Interpretação e análise de erros](./aulas/19-interpretacao-e-erros.md) | Segmentos de falha e hipóteses de melhoria. |
+| [20 — Projeto de machine learning](./aulas/20-projeto-de-machine-learning.md) | Comparação reproduzível de modelos. |
+
+### Trilha 4 — Engenharia de dados (aulas 21–26)
+
+Você constrói um pipeline idempotente que leva dados brutos até uma tabela analítica testada.
+
+| Aula | O que você aprende e entrega |
+|---|---|
+| [21 — Docker, PostgreSQL e Terraform](./aulas/21-docker-postgresql-e-terraform.md) | Ambiente de dados reproduzível. |
+| [22 — Orquestração](./aulas/22-orquestracao.md) | Workflow agendável e observável. |
+| [23 — Data warehouse](./aulas/23-data-warehouse.md) | Particionamento e consultas analíticas. |
+| [24 — dbt e analytics engineering](./aulas/24-dbt-e-analytics-engineering.md) | Modelos SQL testados e documentados. |
+| [25 — Projeto de engenharia de dados](./aulas/25-projeto-de-engenharia-de-dados.md) | Pipeline completo e reexecutável. |
+| [26 — Revisão de dados e modelos](./aulas/26-revisao-de-dados-e-modelos.md) | Projetos auditados e domínio do capstone escolhido. |
+
+### Trilha 5 — Engenharia de machine learning (aulas 27–30)
+
+Você transforma o experimento em um sistema treinável, testável, versionado e monitorável.
+
+| Aula | O que você aprende e entrega |
+|---|---|
+| [27 — Estrutura de projeto de ML](./aulas/27-estrutura-de-projeto-de-ml.md) | Pipeline modular por comandos. |
+| [28 — Experimentos e versionamento](./aulas/28-experimentos-e-versionamento.md) | Métricas, dados e modelos rastreáveis. |
+| [29 — Inferência, API e testes](./aulas/29-inferencia-api-e-testes.md) | Serviço de inferência validado. |
+| [30 — Monitoramento e release](./aulas/30-monitoramento-e-release.md) | Release observável com critérios de rollback. |
+
+### Trilha 6 — LLMs, RAG e agentes (aulas 31–37)
+
+Você entende os fundamentos de LLMs e entrega uma aplicação com recuperação ou ferramentas, avaliada com casos de teste.
+
+| Aula | O que você aprende e entrega |
+|---|---|
+| [31 — Tokens, embeddings e atenção](./aulas/31-tokens-embeddings-e-atencao.md) | Explicação executável do fluxo de um LLM. |
+| [32 — Prompting e contexto](./aulas/32-prompting-e-contexto.md) | Prompts versionados e casos de teste. |
+| [33 — Fundamentos de RAG](./aulas/33-fundamentos-de-rag.md) | Busca semântica sobre documentos próprios. |
+| [34 — Avaliação, custo e latência](./aulas/34-avaliacao-custo-e-latencia.md) | Baseline avaliado com orçamento operacional. |
+| [35 — Recuperação e respostas fundamentadas](./aulas/35-recuperacao-e-respostas-fundamentadas.md) | Pipeline RAG com evidências e abstenção. |
+| [36 — Ferramentas, estado e guardrails](./aulas/36-ferramentas-estado-e-guardrails.md) | Agente simples com limites e tratamento de falhas. |
+| [37 — Agentes e avaliação](./aulas/37-agentes-e-avaliacao.md) | Aplicação de agente observável e avaliada. |
+
+### Trilha 7 — Capstone (aulas 38–40)
+
+Você integra dados, modelo e aplicação em um projeto de portfólio que outra pessoa consegue executar.
+
+| Aula | O que você aprende e entrega |
+|---|---|
+| [38 — Capstone: proposta](./aulas/38-capstone-proposta.md) | Escopo, arquitetura e critérios de sucesso. |
+| [39 — Capstone: implementação](./aulas/39-capstone-implementacao.md) | Caminho principal integrado e testado. |
+| [40 — Capstone: entrega](./aulas/40-capstone-entrega.md) | Demonstração, documentação e retrospectiva. |
+
 ## Para quem é este roadmap
 
 Este roteiro foi criado para pessoas iniciantes ou em transição de carreira que conseguem estudar de 5 a 7,5 horas por semana. Não é necessário conhecer machine learning, mas é importante saber usar arquivos e pastas no computador e estar disposto a consultar materiais em inglês.
