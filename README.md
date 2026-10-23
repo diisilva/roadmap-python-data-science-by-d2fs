@@ -184,7 +184,12 @@ Critério de conclusão: partir dos dados brutos e gerar novamente todos os resu
 
 Competências: preparação de dados, baseline, treino e validação, prevenção de vazamento, métricas, interpretação e análise de erros.
 
-Material principal: [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) — externo.
+Materiais:
+
+- Principal: [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) — externo; guia a aplicação com bibliotecas.
+- Complementar: [ML-From-Scratch](./ML-From-Scratch/) — snapshot incluído; expõe com NumPy o funcionamento interno dos algoritmos.
+
+Use o segundo material de forma seletiva, sem tentar percorrer todas as implementações. O [guia de estudo dirigido](./guias/ml-from-scratch.md) conecta regressão, classificação, árvores e avaliação às aulas 16–20 e registra as limitações técnicas do snapshot.
 
 Entrega: projeto de classificação ou regressão comparando baseline e pelo menos dois modelos.
 
@@ -297,9 +302,10 @@ Depois, siga o `README.md`, `requirements.txt` ou `pyproject.toml` do material. 
 
 ## Conteúdo incluído e manutenção
 
-Somente três projetos com licenças identificadas são incluídos como snapshots:
+Somente quatro projetos com licenças identificadas são incluídos como snapshots:
 
 - `PythonDataScienceHandbook` — código MIT e texto CC-BY-NC-ND;
+- `ML-From-Scratch` — MIT;
 - `Made-With-ML` — MIT;
 - `LLMs-from-scratch` — Apache-2.0.
 

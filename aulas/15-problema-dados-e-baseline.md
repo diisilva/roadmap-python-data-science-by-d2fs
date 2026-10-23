@@ -12,6 +12,10 @@ Traduzir uma necessidade em alvo, unidade de análise, protocolo de divisão e b
 2. [O que é machine learning](../PythonDataScienceHandbook/notebooks/05.01-What-Is-Machine-Learning.ipynb)
 3. [Introdução ao scikit-learn](../PythonDataScienceHandbook/notebooks/05.02-Introducing-Scikit-Learn.ipynb)
 
+## Aprofundamento opcional
+
+Antes de abrir o snapshot, leia o [guia do ML-From-Scratch](../guias/ml-from-scratch.md). Nesta aula, mantenha o foco na formulação do problema; implementar algoritmos começa na aula 16.
+
 ## Prática e entrega
 
 Defina problema, alvo, features disponíveis no momento da previsão, divisão dos dados, métrica e baseline trivial.

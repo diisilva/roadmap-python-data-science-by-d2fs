@@ -12,6 +12,10 @@ Entender o comportamento do modelo, localizar segmentos frágeis e propor melhor
 2. [Scikit-learn: partial dependence](https://scikit-learn.org/stable/modules/partial_dependence.html)
 3. [Random forests](../PythonDataScienceHandbook/notebooks/05.08-Random-Forests.ipynb)
 
+## Aprofundamento opcional
+
+Siga o bloco **Aula 19 — Árvores e florestas por dentro** no [guia do ML-From-Scratch](../guias/ml-from-scratch.md#aula-19--árvores-e-florestas-por-dentro). Trace manualmente uma decisão da raiz até a folha antes de interpretar importâncias.
+
 ## Prática e entrega
 
 Analise importância com cautela, erros por faixa e exemplos concretos. Verifique se desempenho médio esconde um grupo problemático.

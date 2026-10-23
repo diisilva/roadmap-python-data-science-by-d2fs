@@ -12,6 +12,10 @@ Treinar e interpretar um modelo de regressão comparando-o a um baseline simples
 2. [Regressão linear](../PythonDataScienceHandbook/notebooks/05.06-Linear-Regression.ipynb)
 3. [Feature engineering](../PythonDataScienceHandbook/notebooks/05.04-Feature-Engineering.ipynb)
 
+## Aprofundamento opcional
+
+Siga o bloco **Aula 16 — Regressão por dentro** no [guia do ML-From-Scratch](../guias/ml-from-scratch.md#aula-16--regressão-por-dentro). Compare a implementação didática com `LinearRegression` do scikit-learn no mesmo conjunto de dados.
+
 ## Prática e entrega
 
 Treine uma regressão com pipeline de pré-processamento, compare MAE/RMSE ao baseline e examine resíduos por segmento.

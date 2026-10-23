@@ -1,12 +1,13 @@
 # Fontes, licenças e atribuições
 
-O roadmap combina documentação autoral da D2FS, três snapshots de terceiros e links para projetos mantidos externamente.
+O roadmap combina documentação autoral da D2FS, quatro snapshots de terceiros e links para projetos mantidos externamente.
 
 ## Snapshots incluídos
 
 | Diretório | Projeto original | Commit do snapshot | Licença do projeto original |
 |---|---|---|---|
 | `PythonDataScienceHandbook` | [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) | `d66231454ef7` | Código MIT; texto CC-BY-NC-ND 3.0 |
+| `ML-From-Scratch` | [eriklindernoren/ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) | `a2806c6732ee` | MIT |
 | `Made-With-ML` | [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) | `3361aeb8ddfc` | MIT |
 | `LLMs-from-scratch` | [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) | `cdbd33e6d57a` | Apache-2.0 |
 

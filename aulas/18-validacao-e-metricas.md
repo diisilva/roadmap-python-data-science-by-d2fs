@@ -12,6 +12,10 @@ Construir uma avaliação que estime generalização sem contaminar o conjunto d
 2. [Scikit-learn: avaliação de modelos](https://scikit-learn.org/stable/modules/model_evaluation.html)
 3. [Scikit-learn: armadilhas comuns](https://scikit-learn.org/stable/common_pitfalls.html)
 
+## Aprofundamento opcional
+
+Faça a auditoria proposta no bloco **Aula 18 — Validação é mais que código** do [guia do ML-From-Scratch](../guias/ml-from-scratch.md#aula-18--validação-é-mais-que-código). As funções simples do snapshot são objeto de análise, não referência de produção.
+
 ## Prática e entrega
 
 Compare holdout e validação cruzada; se houver tempo ou grupos, use uma divisão coerente. Trave o teste até a seleção final.
