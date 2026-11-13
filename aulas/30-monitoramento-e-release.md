@@ -12,6 +12,10 @@ Definir um release pequeno e observável, com indicadores, limites, resposta a f
 2. [Utilitários do projeto](../Made-With-ML/docs/madewithml/utils.md)
 3. [Google Rules of ML](https://developers.google.com/machine-learning/guides/rules-of-ml)
 
+## Exploração opcional
+
+Percorra o [Data Drift Simulator](https://futureproofds.com/tools/ml-data-drift) e aplique o [roteiro do guia](../guias/ferramentas-interativas-ml-e-agentes.md) ao seu projeto. Diferencie alteração na distribuição dos dados de queda de desempenho do modelo e documente qual evidência levaria a investigar, retreinar ou fazer rollback.
+
 ## Prática e entrega
 
 Defina métricas de serviço, dados e modelo; simule dado inválido ou latência alta; registre alerta, diagnóstico, mitigação e rollback.

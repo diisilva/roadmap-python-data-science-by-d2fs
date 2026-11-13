@@ -32,6 +32,7 @@ Os arquivos de licença originais permanecem dentro dos respectivos diretórios.
 | claude-cookbooks | <https://github.com/anthropics/claude-cookbooks> | Opcional |
 | llm-app | <https://github.com/pathwaycom/llm-app> | Opcional |
 | data-engineer-handbook | <https://github.com/DataExpert-io/data-engineer-handbook> | Opcional |
+| interactive-ai-ml-tools | <https://github.com/Future-Proof-DS/interactive-ai-ml-tools> | Opcional; cinco ferramentas interativas externas para as aulas 27, 30, 36 e 37 |
 | segment-anything | <https://github.com/facebookresearch/segment-anything> | Opcional |
 | stable-diffusion | <https://github.com/CompVis/stable-diffusion> | Opcional |
 | bark | <https://github.com/suno-ai/bark> | Opcional |

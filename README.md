@@ -227,6 +227,8 @@ Competências: organização de projeto, versionamento de dados e modelos, teste
 
 Material principal: [Made-With-ML](./Made-With-ML/) — incluído.
 
+Exploração visual opcional: [guia de ferramentas interativas para ML em produção e drift](./guias/ferramentas-interativas-ml-e-agentes.md), associado às aulas 27 e 30.
+
 Entrega: transformar o modelo da fase 3 em um pipeline testável e reproduzível.
 
 Critério de conclusão: executar treino e avaliação por comando, validar entradas e registrar métricas e versão do modelo.
@@ -249,6 +251,8 @@ Critério de conclusão: explicar como a entrada vira tokens, como o contexto é
 Competências: recuperação de documentos, ferramentas, memória, estado, observabilidade, guardrails e avaliação.
 
 Material principal: [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) — externo.
+
+Exploração visual opcional: [guia de analytics com agentes e evals](./guias/ferramentas-interativas-ml-e-agentes.md), associado às aulas 36 e 37.
 
 Entrega: aplicação que consulta documentos próprios ou utiliza uma ferramenta com tratamento de falhas.
 

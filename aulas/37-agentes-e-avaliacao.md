@@ -13,6 +13,10 @@ Entregar uma aplicação com RAG ou ferramentas que seja observável, testável 
 3. [Revisite respostas fundamentadas](./35-recuperacao-e-respostas-fundamentadas.md)
 4. [Revisite ferramentas e guardrails](./36-ferramentas-estado-e-guardrails.md)
 
+## Exploração opcional
+
+Percorra [Evals, Step by Step](https://futureproofds.com/tools/ai-evals) e acrescente à sua avaliação dois casos com resultado esperado e critério verificável, conforme o [guia de estudo](../guias/ferramentas-interativas-ml-e-agentes.md).
+
 ## Prática e entrega
 
 Execute o conjunto de avaliação, registre trajetória, uso de ferramentas, fontes, latência, custo e falhas. Corrija ao menos um erro encontrado.

@@ -13,6 +13,10 @@ Converter o notebook do projeto de ML em módulos e comandos separados para dado
 3. [Módulo de treino](../Made-With-ML/docs/madewithml/train.md)
 4. [Código do pacote](../Made-With-ML/madewithml/)
 
+## Exploração opcional
+
+Use os mapas [Anatomy of a Production ML System](https://futureproofds.com/tools/ml-system-map) e [ML Project Structure](https://futureproofds.com/tools/ml-project-structure) para comparar o fluxo de produção e a organização do seu projeto. Registre o desenho e a árvore de pastas propostos no [guia de estudo](../guias/ferramentas-interativas-ml-e-agentes.md).
+
 ## Prática e entrega
 
 Refatore o projeto da aula 20 em pacote configurável. Crie comandos independentes e elimine estado escondido do notebook.
